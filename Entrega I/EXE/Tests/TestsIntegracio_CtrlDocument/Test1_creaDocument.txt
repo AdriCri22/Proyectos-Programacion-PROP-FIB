@@ -1,0 +1,16 @@
+0
+sóc el primer document creat
+3
+1
+0
+sóc el segon document creat
+3
+1
+2
+segueixo sent el segon document
+3
+5
+4
+6
+1
+exit

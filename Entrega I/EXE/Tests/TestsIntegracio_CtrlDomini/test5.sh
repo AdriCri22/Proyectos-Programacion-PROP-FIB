@@ -1,0 +1,1 @@
+java -jar ../../DriverCtrlDomini.jar Test5_addFull.txt

@@ -1,0 +1,1 @@
+java -jar ../../DriverCtrlDocument.jar Test7_afegirReferenciesACeles.txt
