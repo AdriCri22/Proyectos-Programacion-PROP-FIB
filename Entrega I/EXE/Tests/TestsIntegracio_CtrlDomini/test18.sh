@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDomini.jar Test18_getValorCelaBuida.txt

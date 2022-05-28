@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDocument.jar Test1_creaDocument.txt

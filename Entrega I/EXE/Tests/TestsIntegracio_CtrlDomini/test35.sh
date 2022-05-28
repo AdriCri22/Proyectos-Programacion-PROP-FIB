@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDomini.jar Test35_addColumnesDesplaçament50Files.txt

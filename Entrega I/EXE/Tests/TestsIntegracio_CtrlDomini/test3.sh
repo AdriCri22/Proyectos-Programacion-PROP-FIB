@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDomini.jar Test3_getNomDocument.txt

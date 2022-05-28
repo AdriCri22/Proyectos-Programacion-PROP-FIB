@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDocument.jar Test6_afegirReferenciaACela.txt

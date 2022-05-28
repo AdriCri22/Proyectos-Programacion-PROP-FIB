@@ -1,5 +1,0 @@
-0
-nomDoc
-1
-nouNomDoc
-exit

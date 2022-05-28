@@ -1,7 +1,0 @@
-El directori de fonts conte el seguent:
-- Carpeta lib: Emmagatzema totes les llibreries del projecte.
-- Carpeta classes: conte els .java de les classes.
-- Carpeta controladors: conte els .java dels controladors.
-- Carpeta drivers: conte els .java dels drivers.
-- Carpeta tests: conte els .java dels tests unitaris.
-- Fitxer makefile: Conte les instruccions dexecucio i compilacio del projecte.

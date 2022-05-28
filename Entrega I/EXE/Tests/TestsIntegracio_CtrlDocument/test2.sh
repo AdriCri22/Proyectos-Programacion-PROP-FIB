@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDocument.jar Test2_comandesSenseCrearDocument.txt

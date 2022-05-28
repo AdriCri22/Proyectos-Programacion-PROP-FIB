@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDomini.jar Test34_deleteColumna50filas.txt

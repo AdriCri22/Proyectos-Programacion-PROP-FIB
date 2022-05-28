@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDomini.jar Test19_getValorCelaAmbValor.txt

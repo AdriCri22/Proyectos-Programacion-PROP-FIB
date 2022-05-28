@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDomini.jar Test36_copiaBlocCelesColumnaEnrere50files.txt

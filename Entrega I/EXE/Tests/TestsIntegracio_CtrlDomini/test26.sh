@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDomini.jar Test26_ordenaBlocColumnaASC.txt

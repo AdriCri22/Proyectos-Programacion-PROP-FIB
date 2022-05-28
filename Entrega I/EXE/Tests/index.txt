@@ -1,3 +1,0 @@
-El directori de fonts conte el seguent:
-- Carpeta TestsIntegracio_CtrlDocument: que conte tots els tests dintegracio correspondents al driver del controlador de document.
-- Carpeta TestsIntegracio_CtrlDomini: conte tots els tests dintegracio correspondents al driver del controlador de domini.

@@ -1,1 +1,0 @@
-java -jar ../../DriverCtrlDomini.jar Test4_getNombreFulls.txt

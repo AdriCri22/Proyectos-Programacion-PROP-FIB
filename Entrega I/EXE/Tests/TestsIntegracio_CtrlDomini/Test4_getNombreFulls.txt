@@ -1,4 +1,0 @@
-0
-nomDoc
-3
-exit
