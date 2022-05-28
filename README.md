@@ -8,3 +8,9 @@ Encuentra el proyecto, con sus respectivas entregas, de la asignatura de Proyect
 | Entrega II  |    15%     |   -   |
 | Entrega III |    45%     |   -   |
 |  **Total**  |  **100%**  | **-** |
+
+## Autors
+- Irene Bertolín Rico
+- Carla Cánovas Iglesias
+- Alex Moreno Baeza
+- Adrian Cristian Crisan
