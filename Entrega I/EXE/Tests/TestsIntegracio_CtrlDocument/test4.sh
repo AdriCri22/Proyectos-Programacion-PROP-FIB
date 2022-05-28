@@ -1,0 +1,1 @@
+java -jar ../../DriverCtrlDocument.jar Test4_creaDocumentIEliminaFulls.txt

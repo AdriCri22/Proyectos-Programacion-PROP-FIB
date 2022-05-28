@@ -1,0 +1,6 @@
+0
+nomDoc
+6
+0
+C
+exit

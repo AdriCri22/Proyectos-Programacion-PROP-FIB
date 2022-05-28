@@ -1,0 +1,1 @@
+java -jar ../../DriverCtrlDomini.jar Test20_copiaCela.txt

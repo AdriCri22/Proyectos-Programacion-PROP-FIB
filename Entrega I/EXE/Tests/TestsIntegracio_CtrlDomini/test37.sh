@@ -1,0 +1,1 @@
+java -jar ../../DriverCtrlDomini.jar Test37_mouBlocCelesColumnaEnrere50Files.txt

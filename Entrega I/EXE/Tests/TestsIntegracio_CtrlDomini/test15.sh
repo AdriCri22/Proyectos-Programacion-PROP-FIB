@@ -1,0 +1,1 @@
+java -jar ../../DriverCtrlDomini.jar Test15_deleteFiles.txt

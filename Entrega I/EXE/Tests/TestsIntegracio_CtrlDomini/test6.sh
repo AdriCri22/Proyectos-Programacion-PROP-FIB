@@ -1,0 +1,1 @@
+java -jar ../../DriverCtrlDomini.jar Test6_deleteFull.txt

@@ -1,0 +1,3 @@
+El directori de fonts conte el seguent:
+- Els .txt que contenen les entrades dels tests dintegracio del controlador de domini.
+- Els .sh que executen els test dintegracio del controlador de domini correspondents.

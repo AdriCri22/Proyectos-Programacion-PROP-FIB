@@ -1,0 +1,1 @@
+java -jar ../../DriverCtrlDomini.jar Test23_copiaBlocCelesColumna.txt
