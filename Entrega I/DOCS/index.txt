@@ -1,0 +1,4 @@
+El directori de documentacio conte el seguent:
+- Carpeta amb el JavaDoc que te informacio sobre totes les classes, els seus metodes i atributs. 
+Tambe sespecifiquen els tests unitaris que shan fet.
+- Documentacio requerida.
