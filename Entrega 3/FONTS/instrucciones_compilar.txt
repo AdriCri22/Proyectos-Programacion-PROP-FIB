@@ -1,0 +1,4 @@
+Makefile:
+	
+	make -> compila todo y actualiza el main.jar de la carpeta EXE
+	make all -> hace lo mismo que que make default

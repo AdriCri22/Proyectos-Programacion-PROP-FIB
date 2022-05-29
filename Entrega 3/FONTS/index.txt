@@ -1,0 +1,4 @@
+La carpeta de fonts conté els elements següents:
+- Les classes del projecte.
+- Fitxer de comandes makefile que permete compilar directament el projecte.
+
