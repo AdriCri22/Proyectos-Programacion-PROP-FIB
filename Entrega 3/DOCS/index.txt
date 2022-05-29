@@ -1,0 +1,4 @@
+La carpeta de documentació conté els documents següents:
+- Repartició de la feina entre els membres de l'equip.
+- Manual d'usuari
+- JavaDoc amb la documentació de totes les classes, atributs i mètodes.
