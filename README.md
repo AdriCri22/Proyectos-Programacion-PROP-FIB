@@ -4,10 +4,10 @@ Encuentra el proyecto, con sus respectivas entregas, de la asignatura de Proyect
 
 | Entrega     | Porcentaje | Nota  |
 | :---------: | :--------: | :---: |
-| Entrega I   |    40%     |   6.805   |
-| Entrega II  |    15%     |   -   |
-| Entrega III |    45%     |   -   |
-|  **Total**  |  **100%**  | **-** |
+| Entrega I   |    40%     |   6.805  |
+| Entrega II  |    15%     |   6.15   |
+| Entrega III |    45%     |   7.18   |
+|  **Total**  |  **100%**  | **7.0**  |
 
 ## Autors
 - Irene Bertolín Rico
